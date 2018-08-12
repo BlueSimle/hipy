@@ -1,0 +1,8 @@
+env: test
+database:
+  db_data_test:
+    host: 127.0.0.1
+    port: 3306
+    name: data_system
+    user: data_system
+    password: 1234

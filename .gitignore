@@ -1,6 +1,1 @@
 .idea/
-config/config.yaml
-main.py
-commands/cmd.py
-*.pyc
-logs/
